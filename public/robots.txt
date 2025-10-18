@@ -1,0 +1,30 @@
+
+User-agent: *
+Allow: /
+Allow: /about
+Allow: /contact
+Allow: /portfolio
+Allow: /services
+Allow: /services/kitchen-renovation
+Allow: /services/bathroom-renovation
+Allow: /services/interior-refurbishment
+Allow: /services/property-refurbishment
+Allow: /services/period-restoration
+Allow: /services/luxury-wall-floor-finishes
+Allow: /services/lighting-integration
+Allow: /services/window-installation
+Allow: /areas/westminster
+Allow: /areas/kensington-chelsea
+Allow: /areas/camden
+Allow: /areas/islington
+Allow: /areas/central-london
+Allow: /areas/hammersmith-fulham
+Allow: /areas/wandsworth
+Allow: /areas/richmond
+Allow: /areas/brent
+Allow: /areas/harrow
+Allow: /areas/ealing
+Allow: /areas/barnet
+Allow: /locations/wembley
+
+Sitemap: https://brentrenovation.co.uk/sitemap.xml
